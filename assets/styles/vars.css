@@ -1,0 +1,25 @@
+:root {
+  --font-family: OpenSans, sans-serif;
+
+  --text-color-primary: #222;
+  --text-color-secondary: #100f2e;
+  --text-color-tertiary: #000;
+  --text-color-quaternary: #555;
+  --text-color-fivefold: #666;
+  --text-color-hexadecimal: #fff;
+
+  --border-primary: #999;
+  --surface-primary: #fff;
+
+  --box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.04);
+  --box-shadow-hover: 0px 30px 40px 0px rgba(0, 0, 0, 0.05);
+
+  --body-font-16: 400 16px / 28px var(--font-family);
+  --headline-font-60: 600 60px / 80px var(--font-family);
+  --headline-font-48: 600 48px / 60px var(--font-family);
+  --headline-font-40: 600 40px / 50px var(--font-family);
+  --headline-font-20: 400 20px / 28px var(--font-family);
+  --subtitle-font-20: 400 20px / 32px var(--font-family);
+  --subtitle-font-16: 400 16px / 28px var(--font-family);
+  --button-font-14: 600 14px / 20px var(--font-family);
+}

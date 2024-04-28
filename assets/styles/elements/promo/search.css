@@ -1,0 +1,18 @@
+.search {
+  width: 100%;
+  display: flex;
+  gap: 134px;
+}
+.search__promo {
+  width: 100%;
+  max-width: 646px;
+}
+.search__title {
+  font: var(--headline-font-60);
+  color: var(--text-color-tertiary);
+  margin-bottom: 30px;
+}
+.search__subtitle {
+  font: var(--subtitle-font-20);
+  color: var(--text-color-quaternary);
+}

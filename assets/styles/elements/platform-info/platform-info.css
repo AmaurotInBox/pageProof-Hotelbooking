@@ -1,0 +1,19 @@
+.platform-info__wrapper {
+  display: flex;
+  gap: 60px;
+  width: 100%;
+}
+.platform-info__image {
+  width: 100%;
+  max-width: 628px;
+}
+.platform-info__title {
+  font: var(--headline-font-40);
+  color: var(--text-color-primary);
+  margin-bottom: 20px;
+}
+.platform-info__subtitle {
+  font: var(--body-font-16);
+  color: var(--text-color-quaternary);
+  margin-bottom: 40px;
+}

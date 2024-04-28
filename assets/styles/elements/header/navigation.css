@@ -1,0 +1,11 @@
+.navigation {
+  display: flex;
+  align-items: center;
+}
+.navigation__link {
+  font: var(--body-font-16);
+  display: block;
+  padding: 6px 20px;
+  color: var(--text-color-primary);
+  text-decoration: none;
+}

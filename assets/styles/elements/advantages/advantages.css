@@ -1,0 +1,18 @@
+.advantages__header {
+  margin-bottom: 40px;
+}
+.advantages__title {
+  font: var(--headline-font-40);
+  color: var(--text-color-tertiary);
+  margin-bottom: 16px;
+}
+.advantages__subtitle {
+  font: var(--subtitle-font-16);
+  color: var(--text-color-quaternary);
+  width: 100%;
+  max-width: 605px;
+}
+.advantages__body {
+  display: flex;
+  gap: 22px;
+}

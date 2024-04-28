@@ -1,0 +1,7 @@
+.sing-in {
+  font: var(--button-font-14);
+  padding: 9px 24px;
+  border: 1px solid var(--border-primary);
+  color: var(--text-color-secondary);
+  border-radius: 35px;
+}
